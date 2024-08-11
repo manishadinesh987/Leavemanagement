@@ -10,6 +10,7 @@ import os
 
 
 def login_page(authenticator):
+    st.title("Leave Management System")
     """
        Handle user login using Streamlit Authenticator.
 
