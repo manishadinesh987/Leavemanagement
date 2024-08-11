@@ -199,7 +199,7 @@ def main():
 
        It handles the initial setup, database creation, and navigation between different pages.
        """
-    st.title("Leave Management System")
+    #st.title("Leave Management System")
     st.markdown("""
               <style>
               body {
