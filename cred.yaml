@@ -1,0 +1,68 @@
+cookie:
+  expiry_days: 0
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    adam:
+      email: adam@gmail.com
+      name: adam
+      password: $2b$12$0d.CbvyjCMfD0zvsqvS9eeDPNu0BL.XNisa4jixdpLz4vYCT.WpgK
+      role: Employee
+    ajitha:
+      email: ajitha@gmail.com
+      name: ajitha
+      password: $2b$12$tLvt036bXUMBP6drUz9R1Or20Zies2rBMPH/ZAgtF7WoK0izL.znq
+      role: Employee
+    alex:
+      email: alex@gmail.com
+      name: alex
+      password: $2b$12$XdoOiatmyKkVlg2pmN7Aw.rGMAumf9s.3XpbNS1it6MHlm26D6.Mi
+      role: Employee
+    david:
+      email: david@gmail.com
+      name: david
+      password: $2b$12$Qo/mZuKL47P99wb86tzWUeSikgKmF7UAz6nGRddUOsf7X2H6xBjC6
+      role: Employee
+    greg:
+      email: greggy
+      name: greg
+      password: $2b$12$N3ar99OgYWJEux02oWD6vuJsvROOpBrJtf/0O4gndpI2G9Un64.p.
+      role: Manager
+    jake:
+      email: jake
+      name: jake
+      password: $2b$12$Rq.v1AW38UIeoqbX9o63juFx5q12YG96phKS0MrIPfcDo/ETPrjyW
+      role: Manager
+    john:
+      email: john
+      name: john
+      password: $2b$12$UqziTySOC60XdNs6PFfWCuJJhkBWDxD3cxtMDUZs1ac9N20norhaC
+      role: Manager
+    jsmith:
+      email: jsmith@gmail.com
+      name: jsmith
+      password: $2b$12$/.C.SmEQOfsxUgO.0L95YeQrPFphIgoCHL5EJltVrnOyagdh4IaP2
+      role: Employee
+    manu:
+      email: manu@123
+      name: manu
+      password: $2b$12$qQu6xhVZp81vD/WWUVbrH.Y6ckFkxTCr7px4Em98MnDHbWghxfq7O
+      role: Employee
+    mohu:
+      email: mohu@gmail.com
+      name: mohu
+      password: $2b$12$PuJLq.cChuiPpLMUDVhQNuSBp1H8r8m2xAPLWrWOCnc.sBNjnmzha
+      role: Employee
+    peter:
+      email: peter@gmail.com
+      name: peter
+      password: $2b$12$pepcEpVp/ntF95/ToQuOS.LMBNrTZJmWScYxMVDAVr13fWjUJsXSO
+      role: Employee
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$7D2jB7.KnPt2BV.XaQRlw.c46xtzhkVNciivIa8G5917gIECfjbXK
+preauthorized:
+  emails:
+  - melsby@gmail.com
