@@ -3,3 +3,4 @@ PyYAML
 pandas
 bcrypt
 streamlit_authenticator
+db-sqlite3
