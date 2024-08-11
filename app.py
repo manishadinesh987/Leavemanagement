@@ -11,17 +11,7 @@ import os
 
 def login_page(authenticator):
     st.title("Leave Management System")
-    """
-       Handle user login using Streamlit Authenticator.
 
-       Args:
-           authenticator (stauth.Authenticate): The authenticator object to manage login.
-
-       Updates:
-           st.session_state["authentication_status"]: Tracks the login status.
-           st.session_state["username"]: Stores the logged-in username.
-           st.session_state["role"]: Stores the role of the logged-in user.
-       """
     name, authentication_status, username = authenticator.login(key='Login')
 
     if authentication_status:
